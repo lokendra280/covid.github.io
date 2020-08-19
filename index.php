@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title></title>
-     <?php include 'links.php'; ?>
+     <?php include 'link.php'; ?>
      <?php include 'style.php'; ?>
 
 </head>
